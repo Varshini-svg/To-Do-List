@@ -1,10 +1,10 @@
-# 📝 Full-Stack To-Do List Web Application
+#  Full-Stack To-Do List Web Application
 
 A full-stack To-Do List app built with **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express**, and **MongoDB**. It allows users to add, complete, and delete tasks with persistent storage using RESTful APIs.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new tasks
 - Mark tasks as complete/incomplete
@@ -15,7 +15,7 @@ A full-stack To-Do List app built with **HTML**, **CSS**, **JavaScript**, **Node
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Layer       | Technology           |
 |-------------|----------------------|
@@ -23,19 +23,4 @@ A full-stack To-Do List app built with **HTML**, **CSS**, **JavaScript**, **Node
 | Backend     | Node.js, Express.js  |
 | Database    | MongoDB + Mongoose   |
 | Protocol    | REST API             |
-
----
-
-## 📁 Project Structure
-
-todo-app/
-├── backend/
-│ ├── server.js
-│ ├── models/
-│ │ └── Task.js
-│ └── routes/
-│ └── tasks.js
-├── frontend/
-│ └── index.html
-├── package.json
 
