@@ -11,7 +11,9 @@ A full-stack To-Do List app built with **HTML**, **CSS**, **JavaScript**, **Node
 - Delete tasks
 - Tasks saved in MongoDB (persistent storage)
 - RESTful API (GET, POST, PUT, DELETE)
+- Toggle task status via API (complete/incomplete)
 - Clean and responsive UI
+- Easy local development and scalable architecture
 
 ---
 
